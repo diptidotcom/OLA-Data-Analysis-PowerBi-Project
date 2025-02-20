@@ -42,18 +42,18 @@ and business Operations.
     - **eBike:** 15.58 km
 
  ####  3.Revenue Insights
- -**Payment Methods**: Analysis of booking values paid via Cash,UPI,Credit Cards ,and Debit Cards.
- -**Customer Revenue**:Top customer revenues identified for personalized marketing stratergies.
+ - **Payment Methods**: Analysis of booking values paid via Cash,UPI,Credit Cards ,and Debit Cards.
+ - **Customer Revenue**:Top customer revenues identified for personalized marketing stratergies.
 
  #### 4.Cancellations
--** Cancellations Rate: 28.08% of total rides were canceled.
--** Reasons for cancellations** : Split between drivers and customers
-   -**Driver unavailability**  was the leading cause of cancellations by customers.
-   -** Personal reasons** topped the list for driver-initiated cancellations.
+- ** Cancellations Rate: 28.08% of total rides were canceled.
+- ** Reasons for cancellations** : Split between drivers and customers
+   - **Driver unavailability**  was the leading cause of cancellations by customers.
+   - ** Personal reasons** topped the list for driver-initiated cancellations.
 
 #### 5.Ratings
 - Average driver and customer ratings compared across vehicle types.
-    -**Prime Sedan and Prime** Plus achived the highest ratings at 4.00.
+    - **Prime Sedan and Prime** Plus achived the highest ratings at 4.00.
     - Ratings for other vehicle types were consistent and close to 4.00.
 
 
