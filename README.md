@@ -15,6 +15,7 @@ and business Operations.
 #### 2.Evaluete revenue trends:
 - Break down revenue across vehicle types and payment methods.
 #### 3.Examine cancellations:
+- Compare Cancellations by Customers vs Drivers
 - Identify reasons and proportions of canceled rides.
 #### 4.Assess customer satisfaction:
 - Compare driver and customer ratings.
@@ -27,9 +28,11 @@ and business Operations.
 
 ## Insights & Findings
 
-- Key trends in customer demand
-- Pricing strategies based on location and time
-- Factors influencing ride cancellations
+#### 1.Overview
+- Total Bookings: 103k rides recorded
+- Successful Rides: 64k successful rides,achieving a 62.09% success rate.
+
+-
 
 ## How to Use This Repository
 
