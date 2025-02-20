@@ -46,8 +46,8 @@ and business Operations.
  - **Customer Revenue**:Top customer revenues identified for personalized marketing stratergies.
 
  #### 4.Cancellations
-- ** Cancellations Rate: 28.08% of total rides were canceled.
-- ** Reasons for cancellations** : Split between drivers and customers
+- **Cancellations Rate**: 28.08% of total rides were canceled.
+- **Reasons for cancellations** : Split between drivers and customers
    - **Driver unavailability**  was the leading cause of cancellations by customers.
    - ** Personal reasons** topped the list for driver-initiated cancellations.
 
