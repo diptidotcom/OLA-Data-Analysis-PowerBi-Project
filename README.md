@@ -26,25 +26,62 @@ and business Operations.
 - **SQL**: Querying data for insights like cancellation reasons and ride volumes.
 - **Excel**: For preliminary data cleaning and organization
 
-## Insights & Findings
+## Features of the Report
 
 #### 1.Overview
-- Total Bookings: 103k rides recorded
-- Successful Rides: 64k successful rides,achieving a 62.09% success rate.
+- **Total Bookings**: 103k rides recorded
+- **Successful Rides**: 64k successful rides,achieving a 62.09% success rate.
+- **Total Revenue**: ₹35M generated from all bookings.
+- **Booking Trends**:   Visualized daily booking counts and booking status proportions.
 
--
+ ####  2.Vehicle Types
+- Comparison of revenue, bookings, and distances traveled for various vehicle types:
+  - **Prime Sedan** led in total revenue (**₹8.30M**).
+  - **Bike and eBike** had the longest average distances traveled:
+    - **Bike:** 15.53 km  
+    - **eBike:** 15.58 km
 
-## How to Use This Repository
+ ####  3.Revenue Insights
+ -**Payment Methods**: Analysis of booking values paid via Cash,UPI,Credit Cards ,and Debit Cards.
+ -**Customer Revenue**:Top customer revenues identified for personalized marketing stratergies.
 
-- The dataset and analysis reports are included in the repository.
-- Power BI dashboards provide interactive insights.
+ #### 4.Cancellations
+-** Cancellations Rate: 28.08% of total rides were canceled.
+-** Reasons for cancellations** : Split between drivers and customers
+   -**Driver unavailability**  was the leading cause of cancellations by customers.
+   -** Personal reasons** topped the list for driver-initiated cancellations.
 
-## Conclusion
+#### 5.Ratings
+- Average driver and customer ratings compared across vehicle types.
+    -**Prime Sedan and Prime** Plus achived the highest ratings at 4.00.
+    - Ratings for other vehicle types were consistent and close to 4.00.
 
-This project helps in understanding the Ola ride-hailing service patterns, aiding in business decision-making and enhancing user experience.
 
-### Contact
+## Key Insights
 
-For any queries or suggestions, feel free to reach out!
+### Rides Analysis
+
+- Peak booking trends observed mid-month; daily bookings exceeded 3,000 rides.
+- **eBike and Mini** vehicles were the most efficient in terms of distance traveled.
+
+### Revenue insights
+
+- Most bookings were paid via **Cash**,followed by **UPI**.
+- Revenue concentration around top-performing vehicle types, with Prime Sedan contributing the most.
+
+### Cancellations Analysis
+
+- Customer-side cancellations were higher (57%) than driver-side cancellations (43%).
+- Poor driver availability and incorrect addresses were significant pain points.
+
+### Customer Ratings
+
+- Both customers and drivers displayed high satisfaction levels, with average ratings hovering around 4.00.
+
+
+##  Report Preview
+
+
+
 
 
